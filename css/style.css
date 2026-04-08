@@ -1,0 +1,42 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Estilo para Esportes */
+#esportes h2 {
+    color: green;
+    font-family: Verdana, sans-serif;
+    text-align: left;
+    border-bottom: 2px solid black;
+}
+
+#esportes p {
+    background-color: #d0f0c0;
+    font-size: 14px;
+    margin: 8px;
+    padding: 6px;
+    border: 1px solid #ccc;
+}
+
+/* Estilo para Negócios */
+#negocios h2 {
+    color: darkorange;
+    font-family: Georgia, serif;
+    text-align: left;
+    border-bottom: 2px solid black;
+}
+
+#negocios p {
+    background-color: #fff3cd;
+    font-size: 14px;
+    margin: 8px;
+    padding: 6px;
+    border: 1px solid #999;
+}
